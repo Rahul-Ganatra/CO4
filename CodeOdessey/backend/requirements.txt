@@ -1,0 +1,16 @@
+# Core Flask dependencies
+Flask
+Flask-CORS
+
+# Audio processing
+openai-whisper
+librosa
+sounddevice
+
+# Scientific computing
+scipy
+numpy
+
+# Build tools
+setuptools
+wheel
